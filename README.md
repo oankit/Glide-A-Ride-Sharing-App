@@ -51,5 +51,5 @@ We integrated a real-time Firebase database with our app to enable us to handle:
 - User registration
 - Live chat feature
 
-[Watch Firebase Functionality](link-to-video)
+[Watch Firebase Functionality](src/assets/Firebase.mp4)
 

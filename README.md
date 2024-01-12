@@ -1,5 +1,5 @@
 # Glide Ride-Sharing App
-![alt text](https://github.com/oankit/Glide-A-Ride-Sharing-App/blob/main/src/assets/glide.png)
+![alt text](https://github.com/oankit/Glide-A-Ride-Sharing-App/blob/main/src/assets/logo.png)
 
 Welcome to Glide, the ride-sharing app that makes your travel experience effortless and eco-friendly!
 
